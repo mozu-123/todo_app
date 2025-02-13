@@ -1,4 +1,6 @@
 # todo_app
+
+
 class Todo
   def initialize
     @tasks = []
